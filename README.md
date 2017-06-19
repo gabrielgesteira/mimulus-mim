@@ -21,4 +21,4 @@ Conforme mencionado, o objetivo deste trabalho foi realizar o mapeamento de QTLs
 
 Disponibilizamos um vídeo no YouTube onde detalhamos por etapas os procedimentos realizados para o mapeamento dos QTLs pelo método MIM. Para visualizar o vídeo, [**clique aqui**]().
 
-Também realizamos um trabalho semelhante, com os mesmos dados, visando mapear QTLs e comparar os resultados obtidos entre os métodos _Interval Mapping_ (IM) e _Composite Interval Mapping_ (CIM). O script elaborado para realizar as análises, bem como os resultados e um vídeo explicativo sobre o assunto podem ser acessados [**clicando aqui**](https://gabrielgesteira.github.io/mimulus-qtl.html). 
+Também realizamos um trabalho semelhante, com os mesmos dados, visando mapear QTLs e comparar os resultados obtidos entre os métodos _Interval Mapping_ (IM) e _Composite Interval Mapping_ (CIM). O script elaborado para realizar as análises, bem como os resultados e um vídeo explicativo sobre o assunto podem ser acessados [**clicando aqui**](https://gabrielgesteira.github.io/mimulus-qtl/). 
