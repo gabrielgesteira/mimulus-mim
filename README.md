@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Escola Superior de Agricultura “Luiz de Queiroz” 
+### Programa de Pós graduação em Genética e Melhoramento de Plantas
+### Disciplina: Biometria de Marcadores Genéticos
 
-You can use the [editor on GitHub](https://github.com/gabrielgesteira/mimulus-mim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Alunos:**
+- Emanoel Martins
+- Gabriel Gesteira
+- Jackeline Borba
+- Pedro Barbosa
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Mapeamento de QTLs - _Mimulus spp._
 
-### Markdown
+A proposta deste trabalho foi realizar o mapeamento de QTLs em _Mimulus spp._, com base em um [**mapa genético elaborado anteriormente**](https://gabrielgesteira.github.io/Mapa-Mimulus/) utilizando o _software Onemap_. Para o mapeamento de QTLs foram utilizados dados genotípicos obtidos de 418 marcadores moleculares e dados fenotípicos coletados em campo para o caráter 'número de pólens não-viáveis'. Os métodos empregados foram o mapeamento por intervalo (_Interval Mapping_ - IM) e mapeamento por intervalo composto (_Composite Interval Mapping_ - CIM), com o auxílio do _software_ estatístico R/qtl.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[**Clique aqui**](https://gabrielgesteira.github.io/mimulus-qtl/files/script-mimulus.html) para visualizar o script utilizado e os resultados obtidos com as análises, ou [**aqui**](https://gabrielgesteira.github.io/mimulus-qtl/files/MAPA_MIMULUS_QTL.pdf) para visualizar o mapa com o QTL posicionado.
 
-```markdown
-Syntax highlighted code block
+## Vídeo: passo-a-passo
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabrielgesteira/mimulus-mim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Disponibilizamos um vídeo no YouTube onde detalhamos por etapas os procedimentos realizados para o mapeamento dos QTLs. Para visualizar o vídeo, [**clique aqui**](https://youtu.be/7NnCneyEzLI).
